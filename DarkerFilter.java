@@ -17,7 +17,6 @@ public class DarkerFilter extends Filter
 
     /**
      * Apply this filter to an image.
-     * 
      * @param  image  The image to be changed by this filter.
      */
     public void apply(OFImage image)
